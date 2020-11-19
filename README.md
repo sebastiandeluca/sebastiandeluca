@@ -3,7 +3,9 @@
 
 I'm an aspiring software developer currently studying Computing at Queen's University.
 
-![MySchool](images/QU.jpg) I enjoy solving problems, as well as learning what coding is capable of achieving.
+![MySchool](images/QU.jpg) 
+
+I enjoy solving problems, as well as learning what coding is capable of achieving.
 
 I'm currently proficient in Python, and plan on expanding my skillset to include JavaScript & C++ after my term ends.
 
