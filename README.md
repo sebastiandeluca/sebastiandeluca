@@ -14,4 +14,6 @@ One of my greatest achievements coding-wise is the pygame-based Prism-- With 3 o
 
 I currently have two and a half years of coding experience under my belt, even though this experience comes from trying new things, as well as from school projects. I always aspire to try my best and go above and beyond what's expected of me, but above all, I love to code!
 
+If you'd like a more in-depth explanation about me and my coding experience, you can check out [my website](https://sebastiandeluca.github.io/)
+
 ###### Check out some of my projects below!
