@@ -1,0 +1,1 @@
+<a style="background-color: #546e5f; display:none; color:#ffffff; font-family: 'Afacad Flux'; font-size: 1.5rem; padding:1rem; border:4px solid transparent; border-radius: 15px; margin-right:1rem;" href="https://www.stratifysoftware.com/">stratifysoftware.com</a>
