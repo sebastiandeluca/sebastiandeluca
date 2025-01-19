@@ -1,6 +1,4 @@
 ![Who Am I?](images/whoisSD.png)
-<style>@import url('https://fonts.googleapis.com/css2?family=Afacad+Flux:wght@100..1000&display=swap');</style>
-
 
 <h2 align="center" style="font-family: 'Afacad Flux'; font-size: 2em; font-weight:bold">ABOUT ME</h2>
 <ul>
@@ -16,5 +14,10 @@
 <a style="background-color: #71b7fb; color:#ffffff; font-family: 'Afacad Flux'; font-size: 1.5rem; padding:1rem; border:4px solid transparent; border-radius: 15px; margin-right:1rem;" href="https://www.linkedin.com/in/sebastian-deluca/">LinkedIn</a>
 </div>
 
+
 <h3 align="center" style="font-family: 'Afacad Flux'; font-size: 1.5em; font-weight:bold">CHECK OUT SOME PROJECTS BELOW!</h2>
+<div align="center">
+
+![sebastiandeluca's Stats](https://github-readme-stats.vercel.app/api?username=sebastiandeluca&theme=solarized-dark&show_icons=true&hide_border=true&count_private=true&hide_rank=true)
+</div>
 
